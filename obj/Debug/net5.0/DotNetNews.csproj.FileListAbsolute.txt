@@ -1,0 +1,15 @@
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/bin/Debug/net5.0/DotNetNews.deps.json
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/bin/Debug/net5.0/DotNetNews.runtimeconfig.json
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/bin/Debug/net5.0/DotNetNews.runtimeconfig.dev.json
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/bin/Debug/net5.0/DotNetNews.dll
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/bin/Debug/net5.0/ref/DotNetNews.dll
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/bin/Debug/net5.0/DotNetNews.pdb
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/obj/Debug/net5.0/DotNetNews.csproj.AssemblyReference.cache
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/obj/Debug/net5.0/DotNetNews.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/obj/Debug/net5.0/DotNetNews.AssemblyInfoInputs.cache
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/obj/Debug/net5.0/DotNetNews.AssemblyInfo.cs
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/obj/Debug/net5.0/DotNetNews.csproj.CoreCompileInputs.cache
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/obj/Debug/net5.0/DotNetNews.dll
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/obj/Debug/net5.0/ref/DotNetNews.dll
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/obj/Debug/net5.0/DotNetNews.pdb
+/Users/roadrunner/Projects/DotNetNews/DotNetNews/obj/Debug/net5.0/DotNetNews.genruntimeconfig.cache
